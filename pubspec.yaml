@@ -1,0 +1,87 @@
+name: mask_thief_detetcion
+description: A new classification project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.6.7+4
+  tflite: ^1.1.1
+  #syncfusion_flutter_pdf: ^18.3.35-beta
+  path_provider: ^1.6.18
+  open_file: ^3.0.1
+  splashscreen: ^1.3.5
+ # advance_pdf_viewer: any
+  path: 
+  #sizer: ^2.0.13
+  geocoding: ^1.0.5
+  geolocator: ^6.1.1
+  share: 2.0.1
+  #flutter_sms: ^2.1.1
+  #flutter_email_sender: ^4.0.0
+  #telephony: ^0.0.9
+  #audioplayers: ^0.15.1
+  firebase_core: "^0.5.0"
+  cloud_firestore: ^0.14.1
+  #flutter_exif_rotation: ^0.4.1
+
+
+
+
+
+
+
+ # url_launcher:
+  #flutter_email_sender: ^5.0.0
+  #webview_flutter: ^2.0.8
+  #flutter_tts: 1.0.0
+  #firebase_core: 0.4.0+8
+ # firebase_storage: 3.0.4
+ # image_cropper: 1.0.2
+
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - images/
+    #- pdf/
+   # - sounds/
+    - icons/camera.png
+    - icons/gallery.png
+    - icons/exit.png
+    - icons/help.png
+
+    - texts/
+
+
+ 

@@ -1,0 +1,12 @@
+app.for accidents detection like fire ,flood,cars crash and dead person
+ in the street and sharing location information of accidents with other
+ mobile apps.by using machine learning technology in the field of artificial 
+ intelligence using the algorithms and Tensorflow framework api.
+
+
+The Accidents Detection By AI 
+
+https://iraqprogrammer.wordpress.com/
+
+
+falahgs07@gmail.com

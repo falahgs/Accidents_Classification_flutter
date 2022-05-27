@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497522971179",
+    "project_id": "skin-cancer-c7539",
+    "storage_bucket": "skin-cancer-c7539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497522971179:android:6ca9668b77567831cd506e",
+        "android_client_info": {
+          "package_name": "com.accident_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497522971179-c857kdetgsor8ai6cfpsemttvb7qn9ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsPGtJzZaT3QlZr5vOuY-9nNUNO-lXHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497522971179-c857kdetgsor8ai6cfpsemttvb7qn9ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

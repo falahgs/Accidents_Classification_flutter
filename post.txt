@@ -1,0 +1,8 @@
+Lung Cancer Detection
+falahgs07@gmail.com
+https://iraqprogrammer.wordpress.com/
+
+App.for lung cancer detection by using machine learning in artificial intelligence 
+field to detected accident type for lung normal cases or malignant cases . 
+ this app for help doctors in their diagnosis for 
+fast way and free with thier examinations for patians ...
